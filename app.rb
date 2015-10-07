@@ -7,6 +7,6 @@ get '/' do
 end
 
 get '/new' do
-  erb "asdlkjfsadl;kjf"
+  erb :new
 end
 
