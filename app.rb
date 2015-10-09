@@ -66,6 +66,8 @@ post '/new' do
 
 end
 
+get
+
 
 
 # insert into Posts (content, created_date) values ('Something', datetime());
